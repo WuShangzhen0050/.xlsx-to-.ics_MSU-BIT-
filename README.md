@@ -1,5 +1,5 @@
 # Excel to iCalendar Converter(in MSU-BIT)
-我们smbu官网（https://ehall.smbu.edu.cn）里面提供的课表只能以.xlsx(Excel)格式导出，我们要把课表导入日历软件的话就很麻烦了。现今我用Python创建一个项目，缓解这个问题。
+我们smbu官网（ https://ehall.smbu.edu.cn ）里面提供的课表只能以.xlsx(Excel)格式导出，我们要把课表导入日历软件的话就很麻烦了。现今我用Python创建一个项目，缓解这个问题。
 
 This project allows you to convert an Excel class schedule into an iCalendar (.ics) file that can be imported into Outlook, Google Calendar, or other calendar apps.
 But the author has only tested it in Outlook.
@@ -38,5 +38,3 @@ The author is not responsible for any errors in the generated iCalendar file.
 
 Modify `conf_classTime.json` to customize the time slots.
 
-
-61108fd (first commit)
