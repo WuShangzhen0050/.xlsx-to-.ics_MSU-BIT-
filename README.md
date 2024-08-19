@@ -38,5 +38,3 @@ The author is not responsible for any errors in the generated iCalendar file.
 
 Modify `conf_classTime.json` to customize the time slots.
 
-
-61108fd (first commit)
