@@ -11,11 +11,10 @@ def main():
     parser.add_argument('--config_file', type=str, default='conf_classTime.json',
                         help="Path to the JSON configuration file.")
     parser.add_argument('--output_file', type=str, default='class_schedule.ics', help="Output .ics file name.")
-    parser.add_argument('--semester_start_date', type=str, default='2024-09-02',
+    parser.add_argument('--semester_start_date', type=str, default='2025-02-17',
                         help="Semester start date (YYYY-MM-DD).")
 
     args = parser.parse_args()
-
     class_info_file = args.class_info_file
     config_file = args.config_file
     output_file = args.output_file
