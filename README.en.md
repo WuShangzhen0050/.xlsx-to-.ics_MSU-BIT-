@@ -1,7 +1,7 @@
 # .xlsx-to-.ics_MSU-BIT-2025
 
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/imBlanker/.xlsx-to-.ics_MSU-BIT-2025/blob/master/README.en.md)
-[![pt-br](https://img.shields.io/badge/lang-zh--cn-red.svg)](https://github.com/imBlanker/.xlsx-to-.ics_MSU-BIT-2025/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/WuShangzhen0050/.xlsx-to-.ics_MSU-BIT-/blob/main/README.en.md)
+[![zh-cn](https://img.shields.io/badge/lang-zh--cn-red.svg)](https://github.com/WuShangzhen0050/.xlsx-to-.ics_MSU-BIT-/blob/main/README.md)
 
 
 
